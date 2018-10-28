@@ -1,4 +1,4 @@
-# Redux base template for rn-redux
+# React Native with Typescript base template for rn-redux
 Init project react native with typescript is easy
 
 ## How Use:
@@ -8,7 +8,7 @@ Init project react native with typescript is easy
 npm i rn-redux -g
 ```
 
-### 2, Init project react-native with rn-redux tools
+### 2, Init project react-native typescipt with rn-redux tools
 ```bash
 rn-redux init [projectName] --version [Version]
 ````
